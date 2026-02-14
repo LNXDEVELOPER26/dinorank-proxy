@@ -1,6 +1,6 @@
 # DinoRank Proxy - WordPress WooCommerce
 
-> Smart reverse proxy for DinoRank with automatic session management, keepalive, and content filtering..
+> Smart reverse proxy for DinoRank with automatic session management, keepalive, and content filtering...
 
 ## Features
 
